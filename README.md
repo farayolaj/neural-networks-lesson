@@ -1,3 +1,7 @@
+## This fork is made to work well with a notebook.
+
+This is a [fork](https://github.com/unexploredtest/neural-networks-and-deep-learning) of a fork of [Michael Nielsen](https://github.com/mnielsen/neural-networks-and-deep-learning)'s repository.
+
 ## This fork is made to work with the latest python versions (3.8.x to 3.10.x)
 
 This is a fork of [Michael Nielsen](https://github.com/mnielsen/neural-networks-and-deep-learning) repository and is meant to be updated with the latest python and dependency versions. Most things have been updated and currently work. Any help is appreciated and if you spotted any problems, please open an issue and/or a PR.
